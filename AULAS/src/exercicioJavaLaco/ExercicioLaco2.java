@@ -42,6 +42,9 @@ public class ExercicioLaco2 {
 		System.out.println("A ordem crescente é: "+terceiro+" / " + segundo+ " / "+ primeiro);
 		}
 
+	
+		leia.close();
+	
 	}
 }
 		
