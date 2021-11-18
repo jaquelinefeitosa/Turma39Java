@@ -10,6 +10,14 @@ public class Preguica extends Animal1 {
 	public void setArvore(String arvore) {
 		this.arvore = arvore;
 	}
+
+	@Override
+	public String toString() {
+		return "Preguica [arvore=" + arvore + ", getArvore()=" + getArvore() + ", getNome()=" + getNome()
+				+ ", getIdade()=" + getIdade() + ", isCorrer()=" + isCorrer() + ", getSom()=" + getSom()
+				+ ", getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString()
+				+ "]";
+	}
 	
 	
 }

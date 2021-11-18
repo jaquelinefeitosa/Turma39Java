@@ -10,6 +10,10 @@ public class Cachorro extends Animal1 {
 	public void setCasa(String casa) {
 		this.casa = casa;
 	}
+
 	
+	
+	
+		
 	
 }
