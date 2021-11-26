@@ -20,7 +20,7 @@ public class LojaJack extends estoqueLoja implements Iestoqueloja {
 	@Override
 	public void contagem() {
 		// TODO Auto-generated method stub
-		System.out.println("Quantidade de estoque: ");
+		System.out.println("Quantidade no estoque: ");
 	}
 
 	@Override
